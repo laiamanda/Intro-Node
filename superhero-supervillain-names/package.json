@@ -1,0 +1,15 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Practice Node",
+  "main": "nodePractice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanda",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
